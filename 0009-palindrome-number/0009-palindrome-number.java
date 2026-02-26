@@ -3,14 +3,16 @@ class Solution {
         int reminder,original;
 long rev=0;
 original=x;
+if(original<0)
+return false;
+
 while(x!=0){
    reminder=x%10;
    rev=rev*10+reminder;
    x=x/10; 
 }
-if(original<0)
-return false;
-else if(original==rev)
+
+if(original==rev)
 return true;
 else
  return false;
