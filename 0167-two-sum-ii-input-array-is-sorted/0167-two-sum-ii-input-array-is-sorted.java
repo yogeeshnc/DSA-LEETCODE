@@ -1,13 +1,20 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-         for (int i = 0; i < numbers.length; i++) {
-            for (int j = i + 1; j < numbers.length; j++) {
-                if (numbers[i] + numbers[j] == target) {
-                    return new int[]{i+1, j+1};
-                }
+        Map<Integer,Integer> seen = new HashMap<>(); 
+         
+        
+        for (int i = 0; i < numbers.length; i++) {
+            int complement = target - numbers[i];
+            
+            if (seen.containsKey(complement)) {
+                return new int[]{seen.get(complement), i+1};
             }
+            
+            seen.put(numbers[i], i+1);
         }
-        throw new IllegalArgumentException("No two sum solution");
+        
+        return new int[]{}; 
+        
     }    
     
 }
