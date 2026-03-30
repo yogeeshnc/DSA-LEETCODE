@@ -27,4 +27,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
