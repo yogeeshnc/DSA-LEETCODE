@@ -12,5 +12,10 @@ Platform: LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
