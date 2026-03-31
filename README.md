@@ -18,6 +18,7 @@ Platform: LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
