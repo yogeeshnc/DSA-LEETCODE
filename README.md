@@ -20,6 +20,7 @@ Platform: LeetCode
 | [0238-product-of-array-except-self](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1470-shuffle-the-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
