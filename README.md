@@ -37,6 +37,7 @@ Platform: LeetCode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Platform: LeetCode
 | [0027-remove-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
