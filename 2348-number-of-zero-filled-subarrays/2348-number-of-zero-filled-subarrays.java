@@ -1,20 +1,19 @@
 class Solution {
     public long zeroFilledSubarray(int[] nums) {
-        long count=0;
-        long result=0;
-        for(int num:nums){
-            if(num==0){
-                count=count +1;
-                result=result+count;
-            }
-            else{
+        long total  = 0;
+        long curr = 0;
+        for(int num : nums){
+            if(num == 0){
+                curr++;
                 
-                count=0;
+            }else{
+                total += (curr * (curr + 1)) / 2;
+                curr = 0;
             }
-            
         }
-        
-        return result;
-
+        if(curr > 0){
+            total += (curr * (curr + 1)) / 2;
+        }
+        return total;
     }
 }
