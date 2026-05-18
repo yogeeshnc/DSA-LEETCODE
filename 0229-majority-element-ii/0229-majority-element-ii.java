@@ -1,26 +1,38 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        HashMap<Integer,Integer> map = new HashMap<>();
-        float n=nums.length/3;
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                map.put(nums[i],(map.get(nums[i])+1));
-                
-            }
-               
-            
-            else{
-                map.put(nums[i],1);
-            }
-            if(map.get(nums[i])>n && !list.contains(nums[i])){
-                list.add(nums[i]);
-            }
-             
+        List<Integer> result= new ArrayList<>();
+        //If an element appears more than n/3 times, there can be at most 2 such elements.
+        int count1=0;
+        int count2=0;
+        Integer candidate1 =null,candidate2=null;
 
+        for (int num : nums) {
+            if (candidate1 != null && num == candidate1) {
+                count1++;
+            } else if (candidate2 != null && num == candidate2) {
+                count2++;
+            } else if (count1 == 0) {
+                candidate1 = num;
+                count1 = 1;
+            } else if (count2 == 0) {
+                candidate2 = num;
+                count2 = 1;
+            } else {
+                count1--;
+                count2--;
             }
-        
-        return list;
-        
+        }
+          count1 = 0;
+        count2 = 0;
+
+        for (int num : nums) {
+            if (num == candidate1) count1++;
+            else if (num == candidate2) count2++;
+        }
+       if (count1 > nums.length / 3) result.add(candidate1);
+        if (count2 > nums.length / 3) result.add(candidate2);
+
+        return result;
+
     }
 }
