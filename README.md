@@ -25,6 +25,7 @@ Platform: LeetCode
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Platform: LeetCode
 | [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@ Platform: LeetCode
 | [0009-palindrome-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +85,7 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
