@@ -13,9 +13,7 @@ class Solution {
             else{
                 ct--;
             }
-            
         }
          return el;//moore's algorithm
     }
-   
 }
