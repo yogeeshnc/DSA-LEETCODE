@@ -28,6 +28,7 @@ Platform: LeetCode
 | [1470-shuffle-the-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Platform: LeetCode
 | [0169-majority-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
